@@ -19,7 +19,7 @@
       <div class="w3-large w3-margin-bottom">
         <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> 714 Wolfe Street,Baltimore, Md 21231 #6149 <br>
         <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: 410-453-2553<br>
-        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: mail@mail.com<br>
+        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: info@bailsonglobal.com<br>
       </div>
       <p>Leave your name, email and message to contact us</p>
       <form action="action_page.php" method="post" target="_blank">
